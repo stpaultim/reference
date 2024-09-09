@@ -10,7 +10,8 @@ this module is no longer a candidate for core.
 https://backdropcms.org/project/entityreference
 
 We recommend that you use the Entity Reference module in core for your future
-reference field requirements.
+reference field requirements. Entity Reference is not enabled by default at this
+time, you may need to enable Entity Reference first.
 
 
 Warning
